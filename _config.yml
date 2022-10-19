@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "pulm" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -112,12 +112,11 @@ author:
   bio              : I'm a computer engineering student at IUST, I play dulcimer that is one of the traditional Iranian muisical instruments and I like swimming and calligraphy 
   location         : "کرج"
   email            : yaasamankargar79@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
-  links:
+  github: yasamankaregar
+  instagram: yasaman_karegar  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -136,12 +135,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Calendly"
-      icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
-    - label: "Telegram"
+    - label: "calendly"
+      icon: 
+      url: 
+    - label: "telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: 
 
 # Site Footer
 footer:
@@ -166,8 +165,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
-
+      url: 
 
 # Reading Files
 include:
